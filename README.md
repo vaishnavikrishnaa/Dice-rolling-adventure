@@ -20,19 +20,6 @@ Roll doubles for **bonus points** and see if you can win!
 - **User input handling** (`java.util.Scanner`)
 - **Game loop and conditional logic**
 
----
-
-## 📂 File Structure
-LuckyDiceAdventure/
-│
-├── Dice.java # Represents a single dice
-├── Game.java # Handles game logic and scoring
-├── LuckyDiceAdventure.java # Main program to run the game
-└── README.md # Project description and instructions
-
-yaml
-Copy
-Edit
 
 ---
 
